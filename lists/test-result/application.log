@@ -1,0 +1,13 @@
+21 Nov 2010 15:38:31,646 INFO  ~ Starting /Users/hfidan/IdeaProjects/route/lists-with-gae-and-fbconnect
+21 Nov 2010 15:38:31,650 INFO  ~ Module fbconnect is available (/Users/hfidan/IdeaProjects/route/play/modules/fbconnect-0.1)
+21 Nov 2010 15:38:31,651 INFO  ~ Module siena is available (/Users/hfidan/IdeaProjects/route/play/modules/siena-1.3)
+21 Nov 2010 15:38:31,651 INFO  ~ Module gae is available (/Users/hfidan/IdeaProjects/route/play/modules/gae-1.1)
+21 Nov 2010 15:38:32,641 WARN  ~ 
+21 Nov 2010 15:38:32,641 WARN  ~ Google App Engine module
+21 Nov 2010 15:38:32,641 WARN  ~ ~~~~~~~~~~~~~~~~~~~~~~~
+21 Nov 2010 15:38:32,641 WARN  ~ No Google App Engine environment found. Setting up a development environement
+21 Nov 2010 15:38:32,652 WARN  ~ 
+21 Nov 2010 15:38:32,652 WARN  ~ You're running Play! in DEV mode
+21 Nov 2010 15:38:32,752 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+21 Nov 2010 15:38:40,971 INFO  ~ Connected to jdbc:hsqldb:mem:playembed
+21 Nov 2010 15:38:40,994 INFO  ~ Application 'Play lists running in GAE with Facebook authentication' is now started !
