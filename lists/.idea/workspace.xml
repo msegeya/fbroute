@@ -19,21 +19,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/app/controllers/Application.java" line="48" class="controllers.Application" package="controllers">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -78,7 +63,7 @@
       <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="72" selection-start="988" selection-end="988" vertical-scroll-proportion="0.0">
+            <state line="24" column="0" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,25 +72,25 @@
       <file leaf-file-name="FBConnectSession.class" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../play/modules/fbconnect-0.1/lib/play-fbconnect.jar!/play/modules/fbconnect/FBConnectSession.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="28" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
+            <state line="24" column="28" selection-start="804" selection-end="804" vertical-scroll-proportion="-11.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FBConnect.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../play/modules/fbconnect-0.1/app/controllers/FBConnect.java">
+      <file leaf-file-name="User.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="17" selection-start="957" selection-end="957" vertical-scroll-proportion="0.27906978">
+            <state line="23" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.4864865">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
+      <file leaf-file-name="Lists.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/Lists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="16" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,43 +99,43 @@
       <file leaf-file-name="canvas.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Application/canvas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="16" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
+            <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blank.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Lists/blank.html">
+      <file leaf-file-name="FBConnect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../play/modules/fbconnect-0.1/app/controllers/FBConnect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Lists/edit.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="42" column="51" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Lists/index.html">
+        <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="33" selection-start="112" selection-end="112" vertical-scroll-proportion="-2.4">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Lists/show.html">
+      <file leaf-file-name="FBConnectTags.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../play/modules/fbconnect-0.1/app/tags/fbconnect/FBConnectTags.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="23" column="0" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.conf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/application.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="20" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -179,6 +164,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/conf/application.conf" />
         <option value="$PROJECT_DIR$/app/views/Application/canvas.html" />
         <option value="$PROJECT_DIR$/app/controllers/Application.java" />
       </list>
@@ -220,6 +206,8 @@
     </navigator>
     <panes>
       <pane id="Favorites" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -432,6 +420,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play lists running in GAE with Facebook authentication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -475,6 +485,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fbconnect" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -502,8 +516,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -515,6 +527,7 @@
     <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -529,9 +542,9 @@
       <recent name="$PROJECT_DIR$/app/views/Application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Remote.Unnamed">
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="controllers.*" />
           <option name="ENABLED" value="true" />
@@ -539,11 +552,11 @@
       </extension>
       <extension name="snapshooter" />
       <option name="MAIN_CLASS_NAME" value="controllers.Application" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -647,8 +660,23 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Unnamed" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8000" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.Unnamed" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -656,6 +684,17 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StatisticProjectComponent">
+    <option name="excludeCompilerOutput" value="true" />
+    <option name="excludeIdea9ArtifactDirectory" value="true" />
+    <option name="excludeTargetDirectories" value="true" />
+    <option name="excludedDirectories">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a9e7b492-28e2-4753-9de9-ea1e80927dca" name="Default" comment="" />
@@ -668,24 +707,25 @@
     <frame x="0" y="22" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39915374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39915374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.6614951" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.5909732" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -730,26 +770,6 @@
         <state line="152" column="30" selection-start="6103" selection-end="6103" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="72" selection-start="988" selection-end="988" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../play/modules/fbconnect-0.1/lib/play-fbconnect.jar!/play/modules/fbconnect/FBConnectSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="28" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/canvas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Lists/blank.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -777,7 +797,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../play/modules/fbconnect-0.1/app/controllers/FBConnect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="17" selection-start="957" selection-end="957" vertical-scroll-proportion="0.27906978">
+        <state line="42" column="51" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="33" selection-start="112" selection-end="112" vertical-scroll-proportion="-2.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="20" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../play/modules/fbconnect-0.1/app/tags/fbconnect/FBConnectTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../play/modules/fbconnect-0.1/lib/play-fbconnect.jar!/play/modules/fbconnect/FBConnectSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="28" selection-start="804" selection-end="804" vertical-scroll-proportion="-11.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.4864865">
           <folding />
         </state>
       </provider>
